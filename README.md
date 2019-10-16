@@ -1,5 +1,5 @@
 # LeetCode  
-This is a repository for LeetCode exercises, many of which are recommended or used as exercises by INSAlgo. 
+This is a repository for LeetCode exercises, many of which are recommended or used as exercises by INSAlgo. Normally INSAlgo, and the international competitions prefer Python, but...java is ok.
 ----
 ### To myself:
 Please be diligent and intelligent.   

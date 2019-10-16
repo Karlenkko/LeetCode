@@ -5,7 +5,7 @@ This is a repository for LeetCode exercises, many of which are recommended or us
 Please be diligent and intelligent.   
 Please try to leave useful comments.  
 Please respect the naming rules of the files:  
-	*e.g. 1.TwoSum/two_sum.py*   
+	*e.g. LeetCode/1.TwoSum/two_sum.py*   
 Please keep being inspired. Try to think about the complexity of every possible implementation of an algorithm.  
 Notice that the time and the memory consumed come from:  
 	<a href="https://leetcode-cn.com/" target="_blank">Leetcode-cn</a>  

@@ -5,12 +5,12 @@ This is a repository for LeetCode exercises, many of which are recommended or us
 Please be diligent and intelligent.   
 Please try to leave useful comments.  
 Please respect the naming rules of the files:  
-	*e.g. 1.TwoSum/two_sum.py*
+	*e.g. 1.TwoSum/two_sum.py*   
 Please keep being inspired. Try to think about the complexity of every possible implementation of an algorithm.  
 Notice that the time and the memory consumed come from:  
 	<a href="https://leetcode-cn.com/" target="_blank">Leetcode-cn</a>  
 	or  
-	<a href="https://leetcode.com/" target="_blank">Leetcode</a>  
+	<a href="https://leetcode.com/" target="_blank">Leetcode</a>    
 ~~Normally the chinese website gives a worse time as well as a worse memory consumption.~~  
 ~~But the percentile ranking can be higher than that in the US site.~~  
 Anyway, this is merely a reference. So don't take it serious.  

@@ -1,4 +1,4 @@
-# LeetCode
+# LeetCode  
 This is a repository for LeetCode exercises, many of which are recommended or used as exercises by INSAlgo. 
 ----
 ### To myself:

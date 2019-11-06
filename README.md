@@ -17,7 +17,8 @@ Notice that the time and the memory consumed come from:
 ~~But the percentile ranking can be higher than that in the US site.~~  
 Anyway, this is merely a reference. So don't take it serious.  
 Though a recursive way does not always give the best performance, do remember that:  
->"To iterate is human, to recurse divine.” - L. Peter Deutsch <   
+>"To iterate is human, to recurse divine.” - L. Peter Deutsch
+   
 Treat this readme.md as an exercise for markdown grammar
 
 ### To my dear visitors:  
